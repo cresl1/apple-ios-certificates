@@ -1,4 +1,5 @@
-#OS Development: Distribution for Ad-Hoc
+#Apple iOS Development
+Step-by-step procedure on how to create certificates to install project to iPhone or archive project for Ad Hoc or Enterprise distribution.
 
 ##Certificates (code signing certificate)
 1. Keychain Access > Certificate Assistant > Request for a Certificate from a Certificate Authority
