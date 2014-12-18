@@ -64,3 +64,6 @@ Step-by-step procedure on how to create certificates to install project to iPhon
 	NOTE: This happens when the provisioning profile and certificates are first time to use
 
 6. Export (click) > Name your .ipa file (include version and build number as post fix example: AppName-v1.0.0-b1)
+
+
+	NOTE: For Enterprise distribution, refer to this link: [http://gknops.github.io/adHocGenerate/](http://gknops.github.io/adHocGenerate/)
